@@ -2,24 +2,11 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
+### How to build image
+Open a terminal and run the following inside the directory that contains the Dockerfile to build the image.
 
-There are two methods for getting started with this repo.
+docker image build -t <name>:<tag> .
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+don't forget the period at the end
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
