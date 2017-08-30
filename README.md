@@ -1,4 +1,4 @@
-# ReduxSimpleStarter with Docker
+## ReduxSimpleStarter with Docker
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
